@@ -3,7 +3,7 @@ AutoML-for-Autonomous-Driving
 
 
 
-# Dataset Selection
+## Dataset Selection
 
 KITTI https://www.cvlibs.net/datasets/kitti/
 
@@ -14,7 +14,7 @@ Waymo https://waymo.com/open/data/perception/
 ONCE https://once-for-auto-driving.github.io/index.html
 
 
-# Object Detection in Autonomous Driving
+## Object Detection in Autonomous Driving
 
 Estimating and Evaluating Regression Predictive Uncertainty in Deep Object Detectors   https://github.com/asharakeh/probdet
 
@@ -25,7 +25,7 @@ YOLOv4: Optimal Speed and Accuracy of Object Detection https://github.com/Alexey
 
 
 
-# AutoML for Object Detection
+## AutoML for Object Detection
 
 DAMO-YOLO : A Report on Real-Time Object Detection Design https://github.com/tinyvision/damo-yolo
 
