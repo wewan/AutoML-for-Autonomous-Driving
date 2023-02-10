@@ -35,3 +35,7 @@ DetNAS: Backbone Search for Object Detection https://github.com/megvii-model/Det
 
 NAS-FCOS: Fast Neural Architecture Search for Object Detection https://github.com/Lausannen/NAS-FCOS
 
+## Experiments Settings
+
+![](/imgs/nn.png)
+
