@@ -15,6 +15,7 @@ ONCE https://once-for-auto-driving.github.io/index.html
 
 
 ## Object Detection in Autonomous Driving
+Graph R-CNN: Towards Accurate 3D Object Detection with Semantic-Decorated Local Graph https://github.com/Nightmare-n/GraphRCNN
 
 Estimating and Evaluating Regression Predictive Uncertainty in Deep Object Detectors   https://github.com/asharakeh/probdet
 
