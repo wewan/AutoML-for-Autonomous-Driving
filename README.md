@@ -40,3 +40,6 @@ NAS-FCOS: Fast Neural Architecture Search for Object Detection https://github.co
 
 ![](/imgs/nn.png)
 
+
+## Related Repo
+https://github.com/FanChiMao/TermProject-2021-ObjectDetection-KITTI
